@@ -1,0 +1,5 @@
+{
+  "library": "src/duug",
+  "pluginFolder": "duug",
+  "site": ".website"
+}

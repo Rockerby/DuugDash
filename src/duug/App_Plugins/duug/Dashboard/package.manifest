@@ -1,0 +1,15 @@
+{
+  "javascript": [
+    "~/App_Plugins/duug/dashboard/dashboardService.js",
+    "~/App_Plugins/duug/dashboard/dashboardController.js"
+  ],
+  "dashboards": [
+    {
+      "alias": "duug-dashboard",
+      "sections": [
+        "content"
+      ],
+      "view": "~/App_Plugins/duug/dashboard/dashboard.html"
+    }
+  ]
+}
